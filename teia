@@ -1,10 +1,11 @@
 #TEIA01
 {
-        "title": "20% de desconto para contratação da plataforma",
-        "short_description": "20%",
-        "long_description": "Description lorem ipsun lor", 
-        "link": "https://www.google.com/",
-        "more": "https://www.google.com/",
+        "title": "Conecta Startup Brasil",
+        "short_description": "Conecta",
+        "long_description": "Ação integrada de ideação, conexão, capacitação e investimento de até R$ 200 mil.", 
+        "link": "https://conectastartupbrasil.org.br/edital/",
+        "more": "https://conectastartupbrasil.org.br/edital/",
         "img": "nome da imagem.png",
-        "category": "Categoria (filtro)"
+        "category1": "Empresa/Startup"
+        "category2": "Estratégia/Ecossistema/Conexão"
     }
