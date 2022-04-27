@@ -99,3 +99,103 @@
         "img": "nome da imagem.png",
         "category": "Empresa/Startup"
         }
+#TEIA11
+{
+        "title": "FAPESP",
+        "short_description": "PIPE",
+        "long_description": "Incentivo em Pesquisa Inovativa em Pequenas Empresas com potencial mercadológico. Fase 1: Estudo/Análise de Viabilidade Técnico-científica da pesquisa; Fase 2:Desenvolvimento da pesquisa técnico-cientifica; Fase 3: Desenvolvimento comercial e industrial do produto/serviço.", 
+        "link": "https://fapesp.br/pipe/sobre/",
+        "more": "https://fapesp.br/pipe/sobre/",
+        "img": "nome da imagem.png",
+        "category": "Empresa"
+        }
+#TEIA12
+{
+        "title": "FINEP",
+        "short_description": " Bioeconomia e Transformação Digital da Amazônia (Finep Amazônia)",
+        "long_description": "Projetos de inovação nas temáticas bioeconomia e transformação digital a serem desenvolvidos por empresas sediadas na Região Norte do Brasil. Tendo os seguimentes temas: – Linha Temática I – Bioeconomia da Amazônia; – Linha Temática II – Transformação Digital da Amazônia.", 
+        "link": "http://www.finep.gov.br/chamadas-publicas/chamadapublica/669/",
+        "more": "http://www.finep.gov.br/chamadas-publicas/chamadapublica/669/",
+        "img": "nome da imagem.png",
+        "category": "Empresa/Startup"
+        }
+#TEIA13
+{
+        "title": "FINEP",
+        "short_description": "Startups IA – Subvenção Econômica à Inovação",
+        "long_description": "Projetos de inovação de Inteligência Artificial (IA) em 4 linhas temáticas: Agro 4.0; Saúde 4.0; Indústria 4.0 e Cidades Inteligentes e Turismo 4.0.", 
+        "link": "http://www.finep.gov.br/chamadas-publicas/chamadapublica/673",
+        "more": "http://www.finep.gov.br/chamadas-publicas/chamadapublica/673",
+        "img": "nome da imagem.png",
+        "category": "Empresa/Startup"
+        }
+#TEIA14
+{
+        "title": "MAPEAMENTO 4.0",
+        "short_description": "Testbed Educacional Digital",
+        "long_description": "Formação, capacitação, treinamento e desenvolvimento de projetos em indústria 4.0 utilizando metodologias ágeis ( Project based learning, design thinking, lean startup entre outras). Formação de graduandos, especialistas (lato senso), mestrandos e doutorandos em indústria 4.0 capacitação e3 treinamento para pessoas das empresas de qualquer porte.", 
+        "link": "https://testbed-utfpr.com.br/",
+        "more": "https://testbed-utfpr.com.br/",
+        "img": "nome da imagem.png",
+        "category": "Empresa/Startup"
+        }
+#TEIA15
+{
+        "title": "Vale do Pinhão",
+        "short_description": "Veja o que vem por aí e programe-se!",
+        "long_description": "Fortalecer e potencializar o ambiente de inovação por meio do empreendedorismo, economia criativa e tecnologia.", 
+        "link": "http://www.valedopinhao.com.br/eventos/",
+        "more": "http://www.valedopinhao.com.br/eventos/",
+        "img": "nome da imagem.png",
+        "category": "Empresa/Startup"
+        }
+#TEIA16
+{
+        "title": "Neoway",
+        "short_description": "Tecnologia ideal para seu desafio, jurídico, comercial , de compliance, fraude e  crédito.",
+        "long_description": "A solução ofertada é do nosso pilar de Sales & Marketing: Neoway B2B IntelligenceEssa solução contempla as seguintes ações a partir do big data analytics: estratégias de marketing, inteligência comercial e prospecção qualificada de empresas.", 
+        "link": "https://www.neoway.com.br/",
+        "more": "https://www.neoway.com.br/",
+        "img": "nome da imagem.png",
+        "category": "Empresa/Startup"
+        }
+#TEIA17
+{
+        "title": "Pipefy",
+        "short_description": "Cresça com Pipefy",
+        "long_description": "Sabemos a realidade de ser uma Startup, por isso entendemos que processos claros e estruturados são essenciais. O Pipefy desenvolveu esse programa para que sua Startup alcance todo seu potencial!", 
+        "link": "https://www.pipefy.com/pt-br/programa-startups/",
+        "more": "https://www.pipefy.com/pt-br/programa-startups/",
+        "img": "nome da imagem.png",
+        "category": "Startup"
+        }
+#TEIA18
+{
+        "title": "Zenvia",
+        "short_description": " Zenvia Partner",
+        "long_description": "Plataforma que empodera as empresas a criar experiências únicas de comunicação para seus clientes.", 
+        "link": "https://www.zenvia.com/partners/",
+        "more": "https://www.zenvia.com/partners/",
+        "img": "nome da imagem.png",
+        "category": "Empresa/Startup"
+        }
+#TEIA19
+{
+        "title": "AWS",
+        "short_description": "Rede de Parceiros da AWS ",
+        "long_description": "A parceiria AWS podem fornecer soluções inovadoras, solucionar desafios técnicos, concretizar negócios e proporcionar valor aos clientes em comum.", 
+        "link": "https://aws.amazon.com/pt/partners/",
+        "more": "https://aws.amazon.com/pt/partners/",
+        "img": "nome da imagem.png",
+        "category": "Empresa/Startup"
+        }
+#TEIA20
+{
+        "title": "RD Station",
+        "short_description": "RD Station Partners",
+        "long_description": "Desenvolvemos um grande ecossistema para pessoas que têm como foco entregar resultados reais para cada um de seus clientes, além de se desafiarem todos os dias a continuar evoluindo.", 
+        "link": "https://www.rdstation.com/parceiros/",
+        "more": "https://www.rdstation.com/parceiros/",
+        "img": "nome da imagem.png",
+        "category": "Empresa/Startup"
+        }
