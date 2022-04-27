@@ -1,1 +1,10 @@
-
+#TEIA01
+{
+        "title": "20% de desconto para contratação da plataforma",
+        "short_description": "20%",
+        "long_description": "Description lorem ipsun lor", 
+        "link": "https://www.google.com/",
+        "more": "https://www.google.com/",
+        "img": "nome da imagem.png",
+        "category": "Categoria (filtro)"
+    }
