@@ -1,0 +1,101 @@
+
+#TEIA01
+{
+        "title": "Softex",
+        "short_description": "Conecta Startup Brasil",
+        "long_description": "Ação integrada de ideação, conexão, capacitação e investimento de até R$ 200 mil.", 
+        "link": "https://conectastartupbrasil.org.br/edital/",
+        "more": "https://conectastartupbrasil.org.br/edital/",
+        "img": "nome da imagem.png",
+        "category": "Empresa/Startup"
+        }
+#TEIA02
+{
+        "title": "Liga Ventures",
+        "short_description": "Inova Sem Parar",
+        "long_description": "Acelere sua startup e faça negócios com a líder em pagamentos automáticos do país.", 
+        "link": "https://inovasemparar.liga.ventures/",
+        "more": "https://inovasemparar.liga.ventures/",
+        "img": "nome da imagem.png",
+        "category": "Startup"
+        }
+#TEIA03
+{
+        "title": "EDP Brasil",
+        "short_description": "Desafio EDP TransformAção",
+        "long_description": " Iniciativa de Inovação Aberta da EDP Brasil para endereçar desafios prioritários das Unidades de Negócio do setor energia.", 
+        "link": "https://edptransformacao.liga.ventures/",
+        "more": "https://edptransformacao.liga.ventures/",
+        "img": "nome da imagem.png",
+        "category": "Startup"
+        }
+#TEIA04
+{
+        "title": "Liga Ventures",
+        "short_description": "Conexão Vit All",
+        "long_description": "E a Unimed Fesp, por meio do Vitall e em parceria com a Liga Ventures, querem ajudar a sua startup a fazer parte da revolução do mercado de saúde no Brasil", 
+        "link": "https://conexaovitall.liga.ventures/",
+        "more": "https://conexaovitall.liga.ventures/",
+        "img": "nome da imagem.png",
+        "category": "Empresa/Startup"
+        }
+#TEIA05
+{
+        "title": "MCBA Advogados",
+        "short_description": "Assessoria jurídica",
+        "long_description": "O MCBA Advogados destaca-se pela agilidade, empatia e excelência nos serviços prestados. Com o objetivo de fomentar o ecossistema de inovação. Oferecemos assessoria e consultoria jurídica com benefícios exclusivos que vão desde mentoria jurídica gratuita à taxa reduzida de honorários.", 
+        "link": "https://mcba.com.br/",
+        "more": "https://mcba.com.br/",
+        "img": "nome da imagem.png",
+        "category": "Empresa/Startup"
+        }
+#TEIA06
+{
+        "title": "Zendesk",
+        "short_description": "Melhorar o seu atendimento ao cliente.",
+        "long_description": "Software de suporte ao cliente para qualquer empresa, não importa o tamanho.", 
+        "link": "https://www.zendesk.com.br",
+        "more": "https://www.zendesk.com.br",
+        "img": "nome da imagem.png",
+        "category": "Empresa/Startup"
+        }
+#TEIA07
+{
+        "title": "Google For Startups",
+        "short_description": "Startup Weekend",
+        "long_description": "O Startup Weekend é um evento de final de semana direcionado a empreendedores que conecta empreendedores, pessoas inteligentes e apaixonadas e as melhores ferramentas para impulsionar o crescimento de startups.", 
+        "link": "https://www.techstars.com/communities/startup-weekend",
+        "more": "https://www.techstars.com/communities/startup-weekend",
+        "img": "nome da imagem.png",
+        "category": "Startup"
+        }
+#TEIA08
+{
+        "title": "Google For Startups",
+        "short_description": "Startup Grind",
+        "long_description": "A Startup Grind é uma comunidade global de startups e para empreendedores. Como base da organização, são realizados eventos mensais com fundadores, inovadores e educadores locais de sucesso que compartilham lições aprendidas no processo de desenvolvimento de grandes empresas.", 
+        "link": "https://www.startupgrind.com/",
+        "more": "https://www.startupgrind.com/",
+        "img": "nome da imagem.png",
+        "category": "Startup"
+        }
+#TEIA09
+{
+        "title": "Gupy",
+        "short_description": "Plataforma de RH",
+        "long_description": "Contratações mais justas, diversas e inclusivas.", 
+        "link": "https://www.gupy.io/",
+        "more": "https://www.gupy.io/",
+        "img": "nome da imagem.png",
+        "category": "Empresa/Startup"
+        }
+#TEIA10
+{
+        "title": "Inovabra",
+        "short_description": "Coinovação do Bradesco",
+        "long_description": "Conteúdos que aconteceram no ecossistema e acompanha as próximas transmissões.", 
+        "link": "https://www.inovabra.com.br/subhomes/habitat/eventos.html",
+        "more": "https://www.inovabra.com.br/subhomes/habitat/eventos.html",
+        "img": "nome da imagem.png",
+        "category": "Empresa/Startup"
+        }
