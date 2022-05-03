@@ -1,1 +1,221 @@
+#modelo
+{
+        "title": "Intraempreendedorismo",
+        "short_description": "Descrição curta",
+        "long_description": "Descrição longa", 
+        "link": "https://www.google.com/",
+        "more": "https://www.google.com/",
+        "img": "nome da imagem.png",
+        "category": "Empresa (categoria, filtro)"
+    }
 
+#VERSO01
+{
+        "title": "Jornada Empreendedora",
+        "short_description": "Descrição curta",
+        "long_description": "Descrição longa", 
+        "link": "https://www.google.com/",
+        "more": "https://www.google.com/",
+        "img": "nome da imagem.png",
+        "category": "Empresa (categoria, filtro)"
+    }
+#VERSO02
+{
+        "title": "Branding e Comunicação",
+        "short_description": "Descrição curta",
+        "long_description": "Descrição longa", 
+        "link": "https://www.google.com/",
+        "more": "https://www.google.com/",
+        "img": "nome da imagem.png",
+        "category": "Empresa (categoria, filtro)"
+    }
+#VERSO03
+{
+        "title": "Organização Financeira Pessoal",
+        "short_description": "Descrição curta",
+        "long_description": "Descrição longa", 
+        "link": "https://www.google.com/",
+        "more": "https://www.google.com/",
+        "img": "nome da imagem.png",
+        "category": "Empresa (categoria, filtro)"
+    }
+#VERSO04
+{
+        "title": "Gestão de Projetos",
+        "short_description": "Descrição curta",
+        "long_description": "Descrição longa", 
+        "link": "https://www.google.com/",
+        "more": "https://www.google.com/",
+        "img": "nome da imagem.png",
+        "category": "Empresa (categoria, filtro)"
+    }
+#VERSO05
+{
+        "title": "Nome do curso",
+        "short_description": "Descrição curta",
+        "long_description": "Descrição longa", 
+        "link": "https://www.google.com/",
+        "more": "https://www.google.com/",
+        "img": "nome da imagem.png",
+        "category": "Empresa (categoria, filtro)"
+    }
+#VERSO06
+{
+        "title": "Produtividade e Priorização",
+        "short_description": "Descrição curta",
+        "long_description": "Descrição longa", 
+        "link": "https://www.google.com/",
+        "more": "https://www.google.com/",
+        "img": "nome da imagem.png",
+        "category": "Empresa (categoria, filtro)"
+    }
+#VERSO07
+{
+        "title": "Transformação Digital",
+        "short_description": "Descrição curta",
+        "long_description": "Descrição longa", 
+        "link": "https://www.google.com/",
+        "more": "https://www.google.com/",
+        "img": "nome da imagem.png",
+        "category": "Empresa (categoria, filtro)"
+    }
+#VERSO08
+{
+        "title": "Síndrome da Impostora",
+        "short_description": "Descrição curta",
+        "long_description": "Descrição longa", 
+        "link": "https://www.google.com/",
+        "more": "https://www.google.com/",
+        "img": "nome da imagem.png",
+        "category": "Empresa (categoria, filtro)"
+    }
+#VERSO09
+{
+        "title": "Liderança",
+        "short_description": "Descrição curta",
+        "long_description": "Descrição longa", 
+        "link": "https://www.google.com/",
+        "more": "https://www.google.com/",
+        "img": "nome da imagem.png",
+        "category": "Empresa (categoria, filtro)"
+    }
+#VERSO10
+{
+        "title": "Cultura Centrada no Cliente",
+        "short_description": "Descrição curta",
+        "long_description": "Descrição longa", 
+        "link": "https://www.google.com/",
+        "more": "https://www.google.com/",
+        "img": "nome da imagem.png",
+        "category": "Empresa (categoria, filtro)"
+    }
+#VERSO11
+{
+        "title": "Planejamento de Carreira",
+        "short_description": "Descrição curta",
+        "long_description": "Descrição longa", 
+        "link": "https://www.google.com/",
+        "more": "https://www.google.com/",
+        "img": "nome da imagem.png",
+        "category": "Empresa (categoria, filtro)"
+    }
+#VERSO12
+{
+        "title": "Startup- Primeiros Passos",
+        "short_description": "Descrição curta",
+        "long_description": "Descrição longa", 
+        "link": "https://www.google.com/",
+        "more": "https://www.google.com/",
+        "img": "nome da imagem.png",
+        "category": "Empresa (categoria, filtro)"
+    }
+#VERSO13
+{
+        "title": "Nome do curso",
+        "short_description": "Descrição curta",
+        "long_description": "Descrição longa", 
+        "link": "https://www.google.com/",
+        "more": "https://www.google.com/",
+        "img": "nome da imagem.png",
+        "category": "Empresa (categoria, filtro)"
+    }
+#VERSO14
+{
+        "title": "Mindset ao roadmap",
+        "short_description": "Descrição curta",
+        "long_description": "Descrição longa", 
+        "link": "https://www.google.com/",
+        "more": "https://www.google.com/",
+        "img": "nome da imagem.png",
+        "category": "Empresa (categoria, filtro)"
+    }
+#VERSO15
+{
+        "title": "Startup- Desenvolvendo seu negócio",
+        "short_description": "Descrição curta",
+        "long_description": "Descrição longa", 
+        "link": "https://www.google.com/",
+        "more": "https://www.google.com/",
+        "img": "nome da imagem.png",
+        "category": "Empresa (categoria, filtro)"
+    }
+#VERSO16
+{
+        "title": "Startup- Estruturação e tração",
+        "short_description": "Descrição curta",
+        "long_description": "Descrição longa", 
+        "link": "https://www.google.com/",
+        "more": "https://www.google.com/",
+        "img": "nome da imagem.png",
+        "category": "Empresa (categoria, filtro)"
+    }
+#VERSO17
+{
+        "title": "Fase 1 - Conceituação",
+        "short_description": "Descrição curta",
+        "long_description": "Descrição longa", 
+        "link": "https://www.google.com/",
+        "more": "https://www.google.com/",
+        "img": "nome da imagem.png",
+        "category": "Empresa (categoria, filtro)"
+    }
+#VERSO18
+{
+        "title": "Fase 2 - Validação",
+        "short_description": "Descrição curta",
+        "long_description": "Descrição longa", 
+        "link": "https://www.google.com/",
+        "more": "https://www.google.com/",
+        "img": "nome da imagem.png",
+        "category": "Empresa (categoria, filtro)"
+    }
+#VERSO19
+{
+        "title": "Fase 3 - Prática e Implementação",
+        "short_description": "Descrição curta",
+        "long_description": "Descrição longa", 
+        "link": "https://www.google.com/",
+        "more": "https://www.google.com/",
+        "img": "nome da imagem.png",
+        "category": "Empresa (categoria, filtro)"
+    }
+#VERSO20
+{
+        "title": "Trilha Fundraising",
+        "short_description": "Descrição curta",
+        "long_description": "Descrição longa", 
+        "link": "https://www.google.com/",
+        "more": "https://www.google.com/",
+        "img": "nome da imagem.png",
+        "category": "Empresa (categoria, filtro)"
+    }
+#VERSO21
+{
+        "title": "Desenvolva 6 Dimensões do VIAS",
+        "short_description": "Descrição curta",
+        "long_description": "Descrição longa", 
+        "link": "https://www.google.com/",
+        "more": "https://www.google.com/",
+        "img": "nome da imagem.png",
+        "category": "Empresa (categoria, filtro)"
+    }
