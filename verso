@@ -1,219 +1,209 @@
-#VERSO00
+#VERSO01
 {
         "title": "Intraempreendedorismo",
-        "short_description": "Trilha Empresa",
-        "long_description": "Pessoas, Cultura", 
+        "short_description": "DF Inovador",
+        "long_description": "Conhecimento em Inovação Aberta sobre as Dimensões: Pessoas, Cultura, Estratégia, Processos, Ecossistema e Conexão",  
         "link": "https://softex.eadplataforma.com/curso/programadfinovador/",
         "more": "https://softex.eadplataforma.com/curso/programadfinovador/",
         "img": "nome da imagem.png",
-        "category": "Empresa (categoria, filtro)"
-#VERSO01
+        "category": "Trilha Empresa"
+#VERSO02
 {
         "title": "Jornada Empreendedora",
-        "short_description": "Trilha Empresa",
-        "long_description": "Pessoas, Cultura", 
+        "short_description": "El@ Empodera",
+        "long_description": "Conhecimento em Inovação Aberta sobre as Dimensões: Pessoas, Cultura, Estratégia, Processos, Ecossistema e Conexão",  
         "link": "https://softex.eadplataforma.com/curso/capacitaela/",
         "more": "https://softex.eadplataforma.com/curso/capacitaela/",
         "img": "nome da imagem.png",
-        "category": "Empresa (categoria, filtro)"
-    }
-#VERSO02
-{
-        "title": "Branding e Comunicação",
-        "short_description": "Descrição curta",
-        "long_description": "Descrição longa", 
-        "link": "https://softex.eadplataforma.com/curso/capacitaela-branding-e-comunicacao/",
-        "more": "https://softex.eadplataforma.com/curso/capacitaela-branding-e-comunicacao/",
-        "img": "nome da imagem.png",
-        "category": "Empresa (categoria, filtro)"
+        "category": "Trilha Empresa"
     }
 #VERSO03
 {
-        "title": "Organização Financeira Pessoal",
-        "short_description": "Descrição curta",
-        "long_description": "Descrição longa", 
-        "link": "https://softex.eadplataforma.com/curso/capacitaela-organizacao-financeira-pessoal/",
-        "more": "https://softex.eadplataforma.com/curso/capacitaela-organizacao-financeira-pessoal/",
+        "title": "Branding e Comunicação",
+        "short_description": "El@ Empodera",
+        "long_description": "Conhecimento em Inovação Aberta sobre as Dimensões: Pessoas, Cultura, Estratégia, Processos, Ecossistema e Conexão",  
+        "link": "https://softex.eadplataforma.com/curso/capacitaela-branding-e-comunicacao/",
+        "more": "https://softex.eadplataforma.com/curso/capacitaela-branding-e-comunicacao/",
         "img": "nome da imagem.png",
-        "category": "Empresa (categoria, filtro)"
+        "category": "Trilha Conexão"
     }
 #VERSO04
 {
-        "title": "Gestão de Projetos",
-        "short_description": "Descrição curta",
-        "long_description": "Descrição longa", 
-        "link": "https://softex.eadplataforma.com/curso/capacitaela-gestao-de-projetos/",
-        "more": "https://softex.eadplataforma.com/curso/capacitaela-gestao-de-projetos/",
+        "title": "Organização Financeira Pessoal",
+        "short_description": "El@ Empodera",
+        "long_description": "Conhecimento em Inovação Aberta sobre as Dimensões: Pessoas, Cultura, Estratégia, Processos, Ecossistema e Conexão",  
+        "link": "https://softex.eadplataforma.com/curso/capacitaela-organizacao-financeira-pessoal/",
+        "more": "https://softex.eadplataforma.com/curso/capacitaela-organizacao-financeira-pessoal/",
         "img": "nome da imagem.png",
-        "category": "Empresa (categoria, filtro)"
+        "category": "Trilha Conexão"
     }
 #VERSO05
 {
-        "title": "Nome do curso",
-        "short_description": "Descrição curta",
-        "long_description": "Descrição longa", 
-        "link": "https://www.google.com/",
-        "more": "https://www.google.com/",
+        "title": "Gestão de Projetos",
+        "short_description": "El@ Empodera",
+        "long_description": "Conhecimento em Inovação Aberta sobre as Dimensões: Pessoas, Cultura, Estratégia, Processos, Ecossistema e Conexão",  
+        "link": "https://softex.eadplataforma.com/curso/capacitaela-gestao-de-projetos/",
+        "more": "https://softex.eadplataforma.com/curso/capacitaela-gestao-de-projetos/",
         "img": "nome da imagem.png",
-        "category": "Empresa (categoria, filtro)"
+        "category": "Trilha Conexão"
     }
 #VERSO06
 {
         "title": "Produtividade e Priorização",
-        "short_description": "Descrição curta",
-        "long_description": "Descrição longa", 
+        "short_description": "El@ Empoderaa",
+        "long_description": "Conhecimento em Inovação Aberta sobre as Dimensões: Pessoas, Cultura, Estratégia, Processos, Ecossistema e Conexão",  
         "link": "https://softex.eadplataforma.com/curso/capacitaela-produtividade-e-priorizacao/",
         "more": "https://softex.eadplataforma.com/curso/capacitaela-produtividade-e-priorizacao/",
         "img": "nome da imagem.png",
-        "category": "Empresa (categoria, filtro)"
+        "category": "Trilha Conexão"
     }
 #VERSO07
 {
         "title": "Transformação Digital",
-        "short_description": "Descrição curta",
-        "long_description": "Descrição longa", 
+        "short_description": "El@ Empodera",
+        "long_description": "Conhecimento em Inovação Aberta sobre as Dimensões: Pessoas, Cultura, Estratégia, Processos, Ecossistema e Conexão",  
         "link": "https://softex.eadplataforma.com/curso/capacitaela-transformacao-digital/",
         "more": "https://softex.eadplataforma.com/curso/capacitaela-transformacao-digital/",
         "img": "nome da imagem.png",
-        "category": "Empresa (categoria, filtro)"
+        "category": "Trilha Conexão"
     }
 #VERSO08
 {
         "title": "Síndrome da Impostora",
-        "short_description": "Descrição curta",
-        "long_description": "Descrição longa", 
+        "short_description": "El@ Empodera",
+        "long_description": "Conhecimento em Inovação Aberta sobre as Dimensões: Pessoas, Cultura, Estratégia, Processos, Ecossistema e Conexão",  
         "link": "https://softex.eadplataforma.com/curso/capacitaela-sindrome-da-impostora/",
         "more": "https://softex.eadplataforma.com/curso/capacitaela-sindrome-da-impostora/",
         "img": "nome da imagem.png",
-        "category": "Empresa (categoria, filtro)"
+        "category": "Trilha Conexão"
     }
 #VERSO09
 {
         "title": "Liderança",
-        "short_description": "Descrição curta",
-        "long_description": "Descrição longa", 
+        "short_description": "El@ Empodera",
+        "long_description": "Conhecimento em Inovação Aberta sobre as Dimensões: Pessoas, Cultura, Estratégia, Processos, Ecossistema e Conexão",  
         "link": "https://softex.eadplataforma.com/curso/capacitaela-lideranca/",
         "more": "https://softex.eadplataforma.com/curso/capacitaela-lideranca/",
         "img": "nome da imagem.png",
-        "category": "Empresa (categoria, filtro)"
+        "category": "Trilha Conexão"
     }
 #VERSO10
 {
         "title": "Cultura Centrada no Cliente",
-        "short_description": "Descrição curta",
-        "long_description": "Descrição longa", 
+        "short_description": "El@ Empodera",
+        "long_description": "Conhecimento em Inovação Aberta sobre as Dimensões: Pessoas, Cultura, Estratégia, Processos, Ecossistema e Conexão",  
         "link": "https://softex.eadplataforma.com/curso/capacitaela-customer-centric-culture/",
         "more": "https://softex.eadplataforma.com/curso/capacitaela-customer-centric-culture/",
         "img": "nome da imagem.png",
-        "category": "Empresa (categoria, filtro)"
+        "category": "Trilha Conexão"
     }
 #VERSO11
 {
         "title": "Planejamento de Carreira",
-        "short_description": "Descrição curta",
-        "long_description": "Descrição longa", 
+        "short_description": "El@ Empodera",
+        "long_description": "Conhecimento em Inovação Aberta sobre as Dimensões: Pessoas, Cultura, Estratégia, Processos, Ecossistema e Conexão",  
         "link": "https://softex.eadplataforma.com/curso/capacitaela-planejamento-de-carreira/",
         "more": "https://softex.eadplataforma.com/curso/capacitaela-planejamento-de-carreira/",
         "img": "nome da imagem.png",
-        "category": "Empresa (categoria, filtro)"
+        "category": "Trilha Conexão"
     }
 #VERSO12
 {
         "title": "Startup- Primeiros Passos",
-        "short_description": "Descrição curta",
-        "long_description": "Descrição longa", 
+        "short_description": "Conecta",
+        "long_description": "Conhecimento em Inovação Aberta sobre as Dimensões: Pessoas, Cultura, Estratégia, Processos, Ecossistema e Conexão",  
         "link": "https://softex.eadplataforma.com/curso/startup-primeiros-passos/",
         "more": "https://softex.eadplataforma.com/curso/startup-primeiros-passos/",
         "img": "nome da imagem.png",
-        "category": "Empresa (categoria, filtro)"
+        "category": "Trilha Startup"
     }
 #VERSO13
 {
-        "title": "Nome do curso",
-        "short_description": "Descrição curta",
-        "long_description": "Descrição longa", 
+        "title": "Mindset ao roadmap",
+        "short_description": "Conecta",
+        "long_description": "Conhecimento em Inovação Aberta sobre as Dimensões: Pessoas, Cultura, Estratégia, Processos, Ecossistema e Conexão",  
         "link": "https://softex.eadplataforma.com/curso/startup-do-mindset-ao-roadmap/",
         "more": "https://softex.eadplataforma.com/curso/startup-do-mindset-ao-roadmap/",
         "img": "nome da imagem.png",
-        "category": "Empresa (categoria, filtro)"
+        "category": "Trilha Startup"
     }
 #VERSO14
 {
-        "title": "Mindset ao roadmap",
-        "short_description": "Descrição curta",
-        "long_description": "Descrição longa", 
-        "link": "https://softex.eadplataforma.com/curso/startup-do-mindset-ao-roadmap/",
-        "more": "https://softex.eadplataforma.com/curso/startup-do-mindset-ao-roadmap/",
-        "img": "nome da imagem.png",
-        "category": "Empresa (categoria, filtro)"
-    }
-#VERSO15
-{
         "title": "Startup- Desenvolvendo seu negócio",
-        "short_description": "Descrição curta",
-        "long_description": "Descrição longa", 
+        "short_description": "Conecta",
+        "long_description": "Conhecimento em Inovação Aberta sobre as Dimensões: Pessoas, Cultura, Estratégia, Processos, Ecossistema e Conexão",  
         "link": "https://softex.eadplataforma.com/curso/startup-desenvolvendo-o-seu-negocio/",
         "more": "https://softex.eadplataforma.com/curso/startup-desenvolvendo-o-seu-negocio/",
         "img": "nome da imagem.png",
-        "category": "Empresa (categoria, filtro)"
+        "category": "Trilha Startup"
     }
-#VERSO16
+#VERSO15
 {
         "title": "Startup- Estruturação e tração",
-        "short_description": "Descrição curta",
-        "long_description": "Descrição longa", 
+        "short_description": "Conecta",
+        "long_description": "Conhecimento em Inovação Aberta sobre as Dimensões: Pessoas, Cultura, Estratégia, Processos, Ecossistema e Conexão",  
         "link": "https://softex.eadplataforma.com/curso/startup-estruturacao-e-tracao/",
         "more": "https://softex.eadplataforma.com/curso/startup-estruturacao-e-tracao/",
         "img": "nome da imagem.png",
-        "category": "Empresa (categoria, filtro)"
+        "category": "Trilha Startup"
     }
-#VERSO17
+#VERSO16
 {
         "title": "Fase 1 - Conceituação",
-        "short_description": "Descrição curta",
-        "long_description": "Descrição longa", 
+        "short_description": "Conecta",
+        "long_description": "Conhecimento em Inovação Aberta sobre as Dimensões: Pessoas, Cultura, Estratégia, Processos, Ecossistema e Conexão", 
         "link": "https://softex.eadplataforma.com/curso/conteudos-fase-1-conceituacao/",
         "more": "https://softex.eadplataforma.com/curso/conteudos-fase-1-conceituacao/",
         "img": "nome da imagem.png",
-        "category": "Empresa (categoria, filtro)"
+        "category": "Trilha Startup"
     }
-#VERSO18
+#VERSO17
 {
         "title": "Fase 2 - Validação",
-        "short_description": "Descrição curta",
-        "long_description": "Descrição longa", 
+        "short_description": "Conecta",
+        "long_description": "Conhecimento em Inovação Aberta sobre as Dimensões: Pessoas, Cultura, Estratégia, Processos, Ecossistema e Conexão",  
         "link": "https://softex.eadplataforma.com/curso/conteudos-fase-2-validacao/",
         "more": "https://softex.eadplataforma.com/curso/conteudos-fase-2-validacao/",
         "img": "nome da imagem.png",
-        "category": "Empresa (categoria, filtro)"
+        "category": "Trilha Startup"
     }
-#VERSO19
+#VERSO18
 {
         "title": "Fase 3 - Prática e Implementação",
-        "short_description": "Descrição curta",
-        "long_description": "Descrição longa", 
+        "short_description": "Conecta",
+        "long_description": "Conhecimento em Inovação Aberta sobre as Dimensões: Pessoas, Cultura, Estratégia, Processos, Ecossistema e Conexão",  
         "link": "https://softex.eadplataforma.com/curso/conteudos-fase-3-pratica-implementacao/",
         "more": "https://softex.eadplataforma.com/curso/conteudos-fase-3-pratica-implementacao/",
         "img": "nome da imagem.png",
-        "category": "Empresa (categoria, filtro)"
+        "category": "Trilha Startup"
     }
-#VERSO20
+#VERSO19
 {
         "title": "Trilha Fundraising",
-        "short_description": "Descrição curta",
+        "short_description": "Conecta",
         "long_description": "Descrição longa", 
         "link": "https://softex.eadplataforma.com/curso/conteudos-trilha-fundraising/",
         "more": "https://softex.eadplataforma.com/curso/conteudos-trilha-fundraising/",
         "img": "nome da imagem.png",
-        "category": "Empresa (categoria, filtro)"
+        "category": "Trilha Conexão"
     }
-#VERSO21
+#VERSO20
 {
         "title": "Desenvolva 6 Dimensões do VIAS",
-        "short_description": "Descrição curta",
-        "long_description": "Descrição longa", 
+        "short_description": "VIAS",
+        "long_description": "Conhecimento em Inovação Aberta sobre as Dimensões: Pessoas, Cultura, Estratégia, Processos, Ecossistema e Conexão", , 
         "link": "https://softex.eadplataforma.com/cursos/",
         "more": "https://softex.eadplataforma.com/cursos/",
         "img": "nome da imagem.png",
-        "category": "Empresa (categoria, filtro)"
+        "category": "Trilha Conexão"
+    }
+#VERSO21
+{
+        "title": "Tecnologia, Inovação e Negócios",
+        "short_description": "AAA Inovação",
+        "long_description": "Conhecimento em Inovação Aberta sobre as Dimensões: Pessoas, Cultura, Estratégia, Processos, Ecossistema e Conexão", 
+        "link": "https://www.youtube.com/channel/UC3heYN8sGT8HorNTfu9MY0Q",
+        "more": "https://www.youtube.com/channel/UC3heYN8sGT8HorNTfu9MY0Q",
+        "img": "nome da imagem.png",
+        "category": "Trilha Conexão"
     }
