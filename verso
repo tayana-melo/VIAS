@@ -1,21 +1,19 @@
-#modelo
+#VERSO00
 {
         "title": "Intraempreendedorismo",
-        "short_description": "Descrição curta",
-        "long_description": "Descrição longa", 
-        "link": "https://www.google.com/",
-        "more": "https://www.google.com/",
+        "short_description": "Trilha Empresa",
+        "long_description": "Pessoas, Cultura", 
+        "link": "https://softex.eadplataforma.com/curso/programadfinovador/",
+        "more": "https://softex.eadplataforma.com/curso/programadfinovador/",
         "img": "nome da imagem.png",
         "category": "Empresa (categoria, filtro)"
-    }
-
 #VERSO01
 {
         "title": "Jornada Empreendedora",
-        "short_description": "Descrição curta",
-        "long_description": "Descrição longa", 
-        "link": "https://www.google.com/",
-        "more": "https://www.google.com/",
+        "short_description": "Trilha Empresa",
+        "long_description": "Pessoas, Cultura", 
+        "link": "https://softex.eadplataforma.com/curso/capacitaela/",
+        "more": "https://softex.eadplataforma.com/curso/capacitaela/",
         "img": "nome da imagem.png",
         "category": "Empresa (categoria, filtro)"
     }
@@ -24,8 +22,8 @@
         "title": "Branding e Comunicação",
         "short_description": "Descrição curta",
         "long_description": "Descrição longa", 
-        "link": "https://www.google.com/",
-        "more": "https://www.google.com/",
+        "link": "https://softex.eadplataforma.com/curso/capacitaela-branding-e-comunicacao/",
+        "more": "https://softex.eadplataforma.com/curso/capacitaela-branding-e-comunicacao/",
         "img": "nome da imagem.png",
         "category": "Empresa (categoria, filtro)"
     }
