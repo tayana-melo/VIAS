@@ -1,8 +1,8 @@
 
 #TEIA01
 {
-        "title": "Softex",
-        "short_description": "Conecta Startup Brasil",
+        "title": "VIAS",
+        "short_description": "teia",
         "long_description": "Ação integrada de ideação, conexão, capacitação e investimento de até R$ 200 mil.", 
         "link": "https://conectastartupbrasil.org.br/edital/",
         "more": "https://conectastartupbrasil.org.br/edital/",
@@ -10,9 +10,9 @@
         "category": "Empresa/Startup"
         }
 #TEIA02
-{
-        "title": "Liga Ventures",
-        "short_description": "Inova Sem Parar",
+{      
+        "title": "VIAS",
+        "short_description": "teia",
         "long_description": "Acelere sua startup e faça negócios com a líder em pagamentos automáticos do país.", 
         "link": "https://inovasemparar.liga.ventures/",
         "more": "https://inovasemparar.liga.ventures/",
@@ -21,8 +21,8 @@
         }
 #TEIA03
 {
-        "title": "EDP Brasil",
-        "short_description": "Desafio EDP TransformAção",
+               "title": "VIAS",
+        "short_description": "teia",
         "long_description": " Iniciativa de Inovação Aberta da EDP Brasil para endereçar desafios prioritários das Unidades de Negócio do setor energia.", 
         "link": "https://edptransformacao.liga.ventures/",
         "more": "https://edptransformacao.liga.ventures/",
@@ -31,8 +31,9 @@
         }
 #TEIA04
 {
-        "title": "Liga Ventures",
-        "short_description": "Conexão Vit All",
+       
+        "title": "VIAS",
+        "short_description": "teia",
         "long_description": "E a Unimed Fesp, por meio do Vitall e em parceria com a Liga Ventures, querem ajudar a sua startup a fazer parte da revolução do mercado de saúde no Brasil", 
         "link": "https://conexaovitall.liga.ventures/",
         "more": "https://conexaovitall.liga.ventures/",
@@ -41,8 +42,9 @@
         }
 #TEIA05
 {
-        "title": "MCBA Advogados",
-        "short_description": "Assessoria jurídica",
+        
+        "title": "VIAS",
+        "short_description": "teia",
         "long_description": "O MCBA Advogados destaca-se pela agilidade, empatia e excelência nos serviços prestados. Com o objetivo de fomentar o ecossistema de inovação. Oferecemos assessoria e consultoria jurídica com benefícios exclusivos que vão desde mentoria jurídica gratuita à taxa reduzida de honorários.", 
         "link": "https://mcba.com.br/",
         "more": "https://mcba.com.br/",
@@ -51,8 +53,9 @@
         }
 #TEIA06
 {
-        "title": "Zendesk",
-        "short_description": "Melhorar o seu atendimento ao cliente.",
+        
+        "title": "VIAS",
+        "short_description": "teia",
         "long_description": "Software de suporte ao cliente para qualquer empresa, não importa o tamanho.", 
         "link": "https://www.zendesk.com.br",
         "more": "https://www.zendesk.com.br",
@@ -61,8 +64,9 @@
         }
 #TEIA07
 {
-        "title": "Google For Startups",
-        "short_description": "Startup Weekend",
+        
+        "title": "VIAS",
+        "short_description": "teia",
         "long_description": "O Startup Weekend é um evento de final de semana direcionado a empreendedores que conecta empreendedores, pessoas inteligentes e apaixonadas e as melhores ferramentas para impulsionar o crescimento de startups.", 
         "link": "https://www.techstars.com/communities/startup-weekend",
         "more": "https://www.techstars.com/communities/startup-weekend",
@@ -71,8 +75,9 @@
         }
 #TEIA08
 {
-        "title": "Google For Startups",
-        "short_description": "Startup Grind",
+        
+        "title": "VIAS",
+        "short_description": "teia",
         "long_description": "A Startup Grind é uma comunidade global de startups e para empreendedores. Como base da organização, são realizados eventos mensais com fundadores, inovadores e educadores locais de sucesso que compartilham lições aprendidas no processo de desenvolvimento de grandes empresas.", 
         "link": "https://www.startupgrind.com/",
         "more": "https://www.startupgrind.com/",
@@ -81,8 +86,9 @@
         }
 #TEIA09
 {
-        "title": "Gupy",
-        "short_description": "Plataforma de RH",
+        
+        "title": "VIAS",
+        "short_description": "teia",
         "long_description": "Contratações mais justas, diversas e inclusivas.", 
         "link": "https://www.gupy.io/",
         "more": "https://www.gupy.io/",
@@ -91,8 +97,9 @@
         }
 #TEIA10
 {
-        "title": "Inovabra",
-        "short_description": "Coinovação do Bradesco",
+        
+        "title": "VIAS",
+        "short_description": "teia",
         "long_description": "Conteúdos que aconteceram no ecossistema e acompanha as próximas transmissões.", 
         "link": "https://www.inovabra.com.br/subhomes/habitat/eventos.html",
         "more": "https://www.inovabra.com.br/subhomes/habitat/eventos.html",
@@ -101,8 +108,9 @@
         }
 #TEIA11
 {
-        "title": "FAPESP",
-        "short_description": "PIPE",
+        
+        "title": "VIAS",
+        "short_description": "teia",
         "long_description": "Incentivo em Pesquisa Inovativa em Pequenas Empresas com potencial mercadológico. Fase 1: Estudo/Análise de Viabilidade Técnico-científica da pesquisa; Fase 2:Desenvolvimento da pesquisa técnico-cientifica; Fase 3: Desenvolvimento comercial e industrial do produto/serviço.", 
         "link": "https://fapesp.br/pipe/sobre/",
         "more": "https://fapesp.br/pipe/sobre/",
@@ -111,8 +119,9 @@
         }
 #TEIA12
 {
-        "title": "FINEP",
-        "short_description": " Bioeconomia e Transformação Digital da Amazônia (Finep Amazônia)",
+        
+        "title": "VIAS",
+        "short_description": "teia",
         "long_description": "Projetos de inovação nas temáticas bioeconomia e transformação digital a serem desenvolvidos por empresas sediadas na Região Norte do Brasil. Tendo os seguimentes temas: – Linha Temática I – Bioeconomia da Amazônia; – Linha Temática II – Transformação Digital da Amazônia.", 
         "link": "http://www.finep.gov.br/chamadas-publicas/chamadapublica/669/",
         "more": "http://www.finep.gov.br/chamadas-publicas/chamadapublica/669/",
@@ -121,8 +130,9 @@
         }
 #TEIA13
 {
-        "title": "FINEP",
-        "short_description": "Startups IA – Subvenção Econômica à Inovação",
+       
+        "title": "VIAS",
+        "short_description": "teia",
         "long_description": "Projetos de inovação de Inteligência Artificial (IA) em 4 linhas temáticas: Agro 4.0; Saúde 4.0; Indústria 4.0 e Cidades Inteligentes e Turismo 4.0.", 
         "link": "http://www.finep.gov.br/chamadas-publicas/chamadapublica/673",
         "more": "http://www.finep.gov.br/chamadas-publicas/chamadapublica/673",
@@ -131,8 +141,9 @@
         }
 #TEIA14
 {
-        "title": "MAPEAMENTO 4.0",
-        "short_description": "Testbed Educacional Digital",
+       
+        "title": "VIAS",
+        "short_description": "teia",
         "long_description": "Formação, capacitação, treinamento e desenvolvimento de projetos em indústria 4.0 utilizando metodologias ágeis ( Project based learning, design thinking, lean startup entre outras). Formação de graduandos, especialistas (lato senso), mestrandos e doutorandos em indústria 4.0 capacitação e3 treinamento para pessoas das empresas de qualquer porte.", 
         "link": "https://testbed-utfpr.com.br/",
         "more": "https://testbed-utfpr.com.br/",
@@ -141,8 +152,9 @@
         }
 #TEIA15
 {
-        "title": "Vale do Pinhão",
-        "short_description": "Veja o que vem por aí e programe-se!",
+        
+        "title": "VIAS",
+        "short_description": "teia",
         "long_description": "Fortalecer e potencializar o ambiente de inovação por meio do empreendedorismo, economia criativa e tecnologia.", 
         "link": "http://www.valedopinhao.com.br/eventos/",
         "more": "http://www.valedopinhao.com.br/eventos/",
@@ -151,8 +163,9 @@
         }
 #TEIA16
 {
-        "title": "Neoway",
-        "short_description": "Tecnologia ideal para seu desafio, jurídico, comercial , de compliance, fraude e  crédito.",
+        
+        "title": "VIAS",
+        "short_description": "teia",
         "long_description": "A solução ofertada é do nosso pilar de Sales & Marketing: Neoway B2B IntelligenceEssa solução contempla as seguintes ações a partir do big data analytics: estratégias de marketing, inteligência comercial e prospecção qualificada de empresas.", 
         "link": "https://www.neoway.com.br/",
         "more": "https://www.neoway.com.br/",
@@ -161,8 +174,9 @@
         }
 #TEIA17
 {
-        "title": "Pipefy",
-        "short_description": "Cresça com Pipefy",
+       
+        "title": "VIAS",
+        "short_description": "teia",
         "long_description": "Sabemos a realidade de ser uma Startup, por isso entendemos que processos claros e estruturados são essenciais. O Pipefy desenvolveu esse programa para que sua Startup alcance todo seu potencial!", 
         "link": "https://www.pipefy.com/pt-br/programa-startups/",
         "more": "https://www.pipefy.com/pt-br/programa-startups/",
@@ -171,8 +185,9 @@
         }
 #TEIA18
 {
-        "title": "Zenvia",
-        "short_description": " Zenvia Partner",
+        
+        "title": "VIAS",
+        "short_description": "teia",
         "long_description": "Plataforma que empodera as empresas a criar experiências únicas de comunicação para seus clientes.", 
         "link": "https://www.zenvia.com/partners/",
         "more": "https://www.zenvia.com/partners/",
@@ -181,8 +196,9 @@
         }
 #TEIA19
 {
-        "title": "AWS",
-        "short_description": "Rede de Parceiros da AWS ",
+        
+        "title": "VIAS",
+        "short_description": "teia",
         "long_description": "A parceiria AWS podem fornecer soluções inovadoras, solucionar desafios técnicos, concretizar negócios e proporcionar valor aos clientes em comum.", 
         "link": "https://aws.amazon.com/pt/partners/",
         "more": "https://aws.amazon.com/pt/partners/",
@@ -191,8 +207,9 @@
         }
 #TEIA20
 {
-        "title": "RD Station",
-        "short_description": "RD Station Partners",
+        
+        "title": "VIAS",
+        "short_description": "teia",
         "long_description": "Desenvolvemos um grande ecossistema para pessoas que têm como foco entregar resultados reais para cada um de seus clientes, além de se desafiarem todos os dias a continuar evoluindo.", 
         "link": "https://www.rdstation.com/parceiros/",
         "more": "https://www.rdstation.com/parceiros/",
